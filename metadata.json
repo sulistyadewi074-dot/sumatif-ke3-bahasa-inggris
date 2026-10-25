@@ -1,0 +1,8 @@
+{
+  "name": "sumatif ke-3 bahasa inggris",
+  "description": "Aplikasi Tes Sumatif Bahasa Inggris Kelas VI SD Negeri 3 Loloan Timur Materi The Animal Kingdom & Mengenal Past Tense dengan 4 tahap tes, sinkronisasi Google Spreadsheet, unduh PDF naskah & hasil tes, serta panel guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
